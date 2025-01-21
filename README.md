@@ -4,6 +4,8 @@
 
 Can contain free and paid stuff.
 
+PAID software -> 💲
+
 ## Table of Contents
 
  - [Admin tools](#admintools)
@@ -24,7 +26,7 @@ Can contain free and paid stuff.
 
 ### <a name="remoteconnectiontools"></a>Remote connection tools
 
-[RoyalTS](https://www.royalapps.com/ts/win/features) PAID 💲: - Remote connection and management tool, supports RDP, SSH, WebPages, built-in credential menager.
+[RoyalTS](https://www.royalapps.com/ts/win/features) 💲: - Remote connection and management tool, supports RDP, SSH, WebPages, built-in credential menager.
 
 ## <a name="awesomelists"></a>Awesome Lists
 
