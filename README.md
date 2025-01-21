@@ -19,7 +19,7 @@
  
 ## <a name="awesomelists"></a>Awesome Lists
 
-[Awesome List of Awesome Lists](https://github.com/sindresorhus/awesome)
+[**Awesome List of Awesome Lists**](https://github.com/sindresorhus/awesome) 
 
 [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 
 
