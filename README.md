@@ -1,5 +1,6 @@
 # itknowpack
-IT Knowledge Pack
+
+**IT Knowledge Pack** is a collection of amazing lists, projects, and resources for homelab enthusiasts.
 
 ## Table of Contents
 
