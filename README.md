@@ -29,3 +29,9 @@ IT Knowledge Pack
 # Awesome project
 
 [MiniRack](https://github.com/geerlingguy/mini-rack)
+
+# Documentations
+
+## Samba Documentation
+
+[Samba Tranquil](https://samba.tranquil.it/doc/en/index.html#)
