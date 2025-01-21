@@ -8,9 +8,11 @@
  - [Awesome projects](#awesomepreject)
  - [Documentations](#docs)
    - [Documentations](#sambadocs)
+ - [PC Hardware](#pchardware)
+   - [PSU](#psu)
+   - [SSD](#ssd)
  - [Power consumption spreadsheet](#powerconsumption)
- - [PSU](#psu)
- - [SSD](#ssd)
+
  
  
  
@@ -32,15 +34,18 @@
 
 ## <a name="docs"></a>Documentations
 
-### <a name="sambadocs"></a> Samba Documentation
+#### <a name="sambadocs"></a> Samba Documentation
 
 [Samba Tranquil](https://samba.tranquil.it/doc/en/index.html#)
 
-## <a name="psu"></a>PSU
+
+## <a name="pchardware"></a>PC Hardware
+
+#### <a name="psu"></a>PSU
 
 [Tierlist of PSU's ](https://cultists.network/140/psu-tier-list/)
 
-## <a name="ssd"></a>SSD
+#### <a name="ssd"></a>SSD
 
 [SSD Spreadsheet](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/edit?gid=0#gid=0)
 
