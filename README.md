@@ -54,6 +54,8 @@
 
 [SSD Spreadsheet](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/edit?gid=0#gid=0)
 
+[SSD Choice flowchart](https://ssd.borecraft.com/SSD_Buying_Guide.png)
+
 ## <a name="powerconsumption"></a> Power consumption spreadsheet
 
 [SSD Spreadsheet](https://docs.google.com/spreadsheets/d/1LHvT2fRp7I6Hf18LcSzsNnjp10VI-odvwZpQZKv_NCI/edit?gid=0#gid=0)
