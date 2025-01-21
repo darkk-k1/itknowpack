@@ -24,11 +24,11 @@ Can contain free and paid stuff.
 
 ### <a name="remoteconnectiontools"></a>Remote connection tools
 
-[RoyalTS](https://www.royalapps.com/ts/win/features) - Remote connection and management tool, supports RDP, SSH, WebPages, built-in credential menager.
+[RoyalTS](https://www.royalapps.com/ts/win/features) PAID 💲: - Remote connection and management tool, supports RDP, SSH, WebPages, built-in credential menager.
 
 ## <a name="awesomelists"></a>Awesome Lists
 
-[**Awesome List of Awesome Lists**](https://github.com/sindresorhus/awesome) :star: - List of Awesome lists
+[**Awesome List of Awesome Lists**](https://github.com/sindresorhus/awesome) ⭐: - List of Awesome lists
 
 [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 
 
