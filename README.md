@@ -45,7 +45,6 @@ PAID software -> 💲
 [MiniRack](https://github.com/geerlingguy/mini-rack) - MiniRack project, repository contains a lot of information for making your own miniature rack stack
 
 
-
 ## <a name="docs"></a>Documentations
 
 ### <a name="sambadocs"></a> Samba Documentation
@@ -69,9 +68,11 @@ PAID software -> 💲
 
 ## <a name="powerconsumption"></a> Power consumption spreadsheet
 
-[SSD Spreadsheet](https://docs.google.com/spreadsheets/d/1LHvT2fRp7I6Hf18LcSzsNnjp10VI-odvwZpQZKv_NCI/edit?gid=0#gid=0) - Spreadsheet with tested low power pc/minipc builds
+[Low Power PC Spreadsheet](https://docs.google.com/spreadsheets/d/1LHvT2fRp7I6Hf18LcSzsNnjp10VI-odvwZpQZKv_NCI/edit?gid=0#gid=0) - Spreadsheet with tested low power pc/minipc builds
 
+## <a name="scripts"></a>Scripts for Linux
 
+[Advanced pci power management](https://github.com/notthebee/AutoASPM)
 
 
 
