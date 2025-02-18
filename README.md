@@ -38,6 +38,8 @@ PAID software -> 💲
 
 [Awesome Static Site Generators](https://github.com/myles/awesome-static-generators)
 
+[Curated list of interesting repositories](https://tom-doerr.github.io/repo_posts/)
+
 
 
 ## <a name="awesomepreject"></a>Awesome projects
